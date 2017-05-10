@@ -1,0 +1,36 @@
+#profile{
+    float: right;
+}
+#courses{
+    border: 1px solid black;
+    margin: 1px;
+}
+body{
+    font-family: times;
+    font-size: meduim;
+    color: black;
+}
+table p{
+    font-size: small;
+}
+ul{
+    color: blue;
+}
+.best{
+    font-style: italic;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+#container_table{
+    margin: 2px;
+}
+div.odd{
+    background-color: gray;
+}
+div.links{
+    font-family: sans-serif;
+}
